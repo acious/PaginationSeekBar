@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/pager"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+    </android.support.v4.view.ViewPager>
+
+    <com.acious.andorid.paginationseekbar.PaginationSeekBar
+        android:id="@+id/test_seekbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="@dimen/appbar"
+        app:psb_indicatorColor="@color/colorPrimary"
+        app:psb_indicatorNextPageText="다음"
+        app:psb_indicatorPrevPageText="이전"
+        app:psb_pageCountPerOneBoard="5"
+        app:psb_progressColor="@color/colorPrimaryDark"
+        app:psb_thumbTextColor="@color/default_white_background" />
+
+</RelativeLayout>
