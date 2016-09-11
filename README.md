@@ -1,5 +1,5 @@
 #PaginationSeekBar
-[ ![Download](https://api.bintray.com/packages/ace-jckim/maven/paginationseekbar/images/download.svg)  ](https://bintray.com/ace-jckim/maven/paginationseekbar/_latestVersion)
+[ ![Download](https://api.bintray.com/packages/ace-jckim/maven/paginationseekbar/images/download.svg)  ](https://bintray.com/ace-jckim/maven/paginationseekbar/_latestVersion)  
 ![screenshot](https://media.giphy.com/media/26uf55vfqgoEAmlO0/giphy.gif)
 
 PaginationSeekBar is Android UI Library for Easy&Quick Pagination. I recommand that, Use this for Board(List, Grid)UI.
