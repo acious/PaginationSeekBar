@@ -1,5 +1,5 @@
 #PaginationSeekBar
-[ ![Download](https://api.bintray.com/packages/ace-jckim/maven/paginationseekbar/images/download.svg)  ](https://bintray.com/ace-jckim/maven/paginationseekbar/_latestVersion)  
+[ ![Download](https://api.bintray.com/packages/ace-jckim/maven/pagination-seekbar/images/download.svg)  ](https://bintray.com/ace-jckim/maven/pagination-seekbar/_latestVersion)
 ![screenshot](https://media.giphy.com/media/26uf55vfqgoEAmlO0/giphy.gif)
 
 PaginationSeekBar is Android UI Library for Easy&Quick Pagination. I recommand that, Use this for Board(List, Grid)UI.
@@ -7,7 +7,7 @@ PaginationSeekBar is Android UI Library for Easy&Quick Pagination. I recommand t
 ##Gradle Dependency
 ```gradle
 dependencies {
-	compile 'com.acious.android:paginationseekbar:1.0.1'
+	compile 'com.acious.android:paginationseekbar:1.0.2'
 }
 ```
 
