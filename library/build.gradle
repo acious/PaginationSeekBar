@@ -4,8 +4,8 @@ apply plugin: 'com.novoda.bintray-release'
 publish {
     userOrg = "ace-jckim"
     groupId = "com.acious.android"
-    artifactId = "pagination-seekbar"
-    publishVersion = "1.0.2"
+    artifactId = "paginationseekbar"
+    publishVersion = "1.0.3"
     desc = "Pagination view library for android"
     website = "https://github.com/acious/PaginationSeekBar"
     issueTracker = "https://github.com/acious/PaginationSeekBar/issues"
@@ -19,8 +19,8 @@ android {
     defaultConfig {
         minSdkVersion 15
         targetSdkVersion 24
-        versionCode 3
-        versionName "1.0.2"
+        versionCode 4
+        versionName "1.0.3"
     }
 }
 
