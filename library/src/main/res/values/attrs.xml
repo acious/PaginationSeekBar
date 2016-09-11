@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) Jongchan Kim (Acious) 2016.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <!-- DiscreteSeekBar specific attributes -->
+    <attr name="paginationSeekBarStyle" format="reference"/>
+    <declare-styleable name="PaginationSeekBar">
+        <attr name="psb_pageCountPerOneBoard" format="integer|dimension"/>
+        <attr name="psb_min" format="integer|dimension"/>
+        <attr name="psb_max" format="integer|dimension"/>
+        <attr name="psb_value" format="integer|dimension"/>
+        <attr name="psb_mirrorForRtl" format="boolean"/>
+        <attr name="psb_allowTrackClickToDrag" format="boolean"/>
+        <attr name="psb_progressColor" format="color|reference"/>
+        <attr name="psb_trackColor" format="color|reference"/>
+        <attr name="psb_indicatorTextAppearance" format="reference"/>
+        <attr name="psb_indicatorColor" format="color|reference"/>
+        <attr name="psb_indicatorElevation" format="dimension"/>
+        <attr name="psb_indicatorFormatter" format="string|reference"/>
+        <attr name="psb_indicatorPrevPageText" format="string"/>
+        <attr name="psb_indicatorNextPageText" format="string"/>
+        <attr name="psb_rippleColor" format="color|reference"/>
+        <attr name="psb_thumbTextColor" format="color|reference"/>
+    </declare-styleable>
+</resources>

@@ -10,8 +10,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 
-import com.acious.andorid.paginationseekbar.PaginationSeekBar;
-
+import com.acious.android.paginationseekbar.PaginationSeekBar;
 
 public class MainActivity extends AppCompatActivity implements ExampleFragment.OnFragmentInteractionListener {
 
