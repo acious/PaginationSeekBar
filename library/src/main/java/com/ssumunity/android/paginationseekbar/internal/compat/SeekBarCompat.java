@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar.internal.compat;
+package com.ssumunity.android.paginationseekbar.internal.compat;
 
 import android.content.res.ColorStateList;
 import android.graphics.drawable.Drawable;
@@ -24,8 +24,8 @@ import android.view.View;
 import android.view.ViewParent;
 import android.widget.TextView;
 
-import com.acious.android.paginationseekbar.internal.drawable.AlmostRippleDrawable;
-import com.acious.android.paginationseekbar.internal.drawable.MarkerDrawable;
+import com.ssumunity.android.paginationseekbar.internal.drawable.AlmostRippleDrawable;
+import com.ssumunity.android.paginationseekbar.internal.drawable.MarkerDrawable;
 
 public class SeekBarCompat {
 

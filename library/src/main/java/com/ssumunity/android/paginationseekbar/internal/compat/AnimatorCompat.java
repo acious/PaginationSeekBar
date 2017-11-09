@@ -14,11 +14,9 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar.internal.compat;
+package com.ssumunity.android.paginationseekbar.internal.compat;
 
 import android.os.Build;
-
-import com.acious.android.paginationseekbar.PaginationSeekBar;
 
 public abstract class AnimatorCompat {
     public interface AnimationFrameUpdateListener {

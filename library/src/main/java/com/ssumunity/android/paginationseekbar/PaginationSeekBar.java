@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar;
+package com.ssumunity.android.paginationseekbar;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -39,12 +39,13 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.ViewParent;
 
-import com.acious.android.paginationseekbar.internal.PopupIndicator;
-import com.acious.android.paginationseekbar.internal.compat.AnimatorCompat;
-import com.acious.android.paginationseekbar.internal.compat.SeekBarCompat;
-import com.acious.android.paginationseekbar.internal.drawable.MarkerDrawable;
-import com.acious.android.paginationseekbar.internal.drawable.ThumbDrawable;
-import com.acious.android.paginationseekbar.internal.drawable.TrackRectDrawable;
+import com.ssumunity.android.paginationseekbar.R;
+import com.ssumunity.android.paginationseekbar.internal.PopupIndicator;
+import com.ssumunity.android.paginationseekbar.internal.compat.AnimatorCompat;
+import com.ssumunity.android.paginationseekbar.internal.compat.SeekBarCompat;
+import com.ssumunity.android.paginationseekbar.internal.drawable.MarkerDrawable;
+import com.ssumunity.android.paginationseekbar.internal.drawable.ThumbDrawable;
+import com.ssumunity.android.paginationseekbar.internal.drawable.TrackRectDrawable;
 
 import java.util.Formatter;
 import java.util.Locale;

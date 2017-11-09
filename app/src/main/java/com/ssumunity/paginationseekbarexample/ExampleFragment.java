@@ -1,4 +1,4 @@
-package com.acious.paginationseekbarexample;
+package com.ssumunity.paginationseekbarexample;
 
 import android.app.Activity;
 import android.net.Uri;

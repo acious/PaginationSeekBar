@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar.internal.drawable;
+package com.ssumunity.android.paginationseekbar.internal.drawable;
 
 import android.content.res.ColorStateList;
 import android.graphics.Canvas;

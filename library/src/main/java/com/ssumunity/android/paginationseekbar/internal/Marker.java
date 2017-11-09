@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar.internal;
+package com.ssumunity.android.paginationseekbar.internal;
 
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -31,11 +31,11 @@ import android.view.ViewGroup;
 import android.widget.FrameLayout;
 import android.widget.TextView;
 
-import com.acious.android.paginationseekbar.R;
+import com.ssumunity.android.paginationseekbar.R;
 
-import com.acious.android.paginationseekbar.internal.compat.SeekBarCompat;
-import com.acious.android.paginationseekbar.internal.drawable.MarkerDrawable;
-import com.acious.android.paginationseekbar.internal.drawable.ThumbDrawable;
+import com.ssumunity.android.paginationseekbar.internal.compat.SeekBarCompat;
+import com.ssumunity.android.paginationseekbar.internal.drawable.MarkerDrawable;
+import com.ssumunity.android.paginationseekbar.internal.drawable.ThumbDrawable;
 
 public class Marker extends ViewGroup implements MarkerDrawable.MarkerAnimationListener {
     private static final int PADDING_DP = 4;

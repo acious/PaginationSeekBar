@@ -2,31 +2,29 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.novoda.bintray-release'
 
 publish {
-    userOrg = "ace-jckim"
-    groupId = "com.acious.android"
+    userOrg = "ssumunity"
+    groupId = "com.ssumunity.android"
     artifactId = "paginationseekbar"
-    publishVersion = "1.0.3"
+    publishVersion = "1.0.4"
     desc = "Pagination view library for android"
-    website = "https://github.com/acious/PaginationSeekBar"
-    issueTracker = "https://github.com/acious/PaginationSeekBar/issues"
-    repository = "https://github.com/acious/PaginationSeekBar.git"
+    website = "https://github.com/SSUmunity/PaginationSeekBar"
+    issueTracker = "https://github.com/SSUmunity/PaginationSeekBar/issues"
+    repository = "https://github.com/SSUmunity/PaginationSeekBar.git"
 }
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "24.0.2"
+    compileSdkVersion 27
 
     defaultConfig {
-        minSdkVersion 15
-        targetSdkVersion 24
-        versionCode 4
-        versionName "1.0.3"
+        minSdkVersion 18
+        targetSdkVersion 27
+        versionCode 5
+        versionName "1.0.4"
     }
 }
 
 
 dependencies {
     compile fileTree(include: ['*.jar'], dir: 'libs')
-    compile 'com.android.support:support-v4:24.2.0'
-
+    compile 'com.android.support:support-v4:27.0.0'
 }

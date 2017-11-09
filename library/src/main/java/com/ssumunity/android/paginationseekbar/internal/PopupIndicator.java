@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.acious.android.paginationseekbar.internal;
+package com.ssumunity.android.paginationseekbar.internal;
 
 import android.content.Context;
 import android.graphics.PixelFormat;
@@ -30,8 +30,8 @@ import android.view.ViewGroup;
 import android.view.WindowManager;
 import android.widget.FrameLayout;
 
-import com.acious.android.paginationseekbar.internal.compat.SeekBarCompat;
-import com.acious.android.paginationseekbar.internal.drawable.MarkerDrawable;
+import com.ssumunity.android.paginationseekbar.internal.compat.SeekBarCompat;
+import com.ssumunity.android.paginationseekbar.internal.drawable.MarkerDrawable;
 
 public class PopupIndicator {
 
