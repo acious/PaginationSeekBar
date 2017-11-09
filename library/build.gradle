@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.novoda.bintray-release'
 
 publish {
-    userOrg = "ssumunity"
+    userOrg = "ssumunity-oss"
     groupId = "com.ssumunity.android"
     artifactId = "paginationseekbar"
     publishVersion = "1.0.4"
