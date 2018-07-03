@@ -64,7 +64,7 @@ Thanks for [Gustavo Claramunt]'s [DiscreteSeekBar]
 
 ## License
 ```
-Copyright 2017 SSUmunity
+Copyright 2017 SSUmunity (Developed by ace kim)
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
